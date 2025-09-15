@@ -1,0 +1,45 @@
+# 4:3 aspect ratio
+figure.figsize : 7.0, 5.25
+
+# General settings
+lines.color: black,
+font.family: serif,
+font.weight: normal,
+text.color: black,
+text.usetex: True,
+    
+# Axes
+axes.edgecolor: black,
+axes.linewidth: 1.0,
+axes.titlesize: x-large,
+axes.labelsize: 15,
+axes.labelcolor: black,
+axes.linewidth: 1.5,
+
+# X ticks
+xtick.labelsize: x-large,
+xtick.minor.width: 1.5,
+xtick.major.width: 1.5,
+xtick.major.size: 10,
+xtick.minor.size: 5,
+xtick.major.pad: 8,
+xtick.minor.pad: 8,
+xtick.direction: in,
+
+# Y ticks
+ytick.labelsize: x-large,
+ytick.major.size: 10,
+ytick.minor.size: 5,
+ytick.major.pad: 8,
+ytick.minor.pad: 8,
+ytick.minor.width: 1.5,
+ytick.major.width: 1.5,
+ytick.direction: in,
+
+# Legend
+legend.fontsize: x-large,
+legend.framealhpa: 1.0,
+legend.edgecolor: 1.0,
+legend.shadow: False,
+legend.fancybox: False,
+legend.frameon: False
