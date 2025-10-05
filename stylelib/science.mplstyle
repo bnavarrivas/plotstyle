@@ -3,7 +3,8 @@ figure.figsize : 7.0, 5.25
 
 # General settings
 lines.color: black
-font.family: serif
+#font.family: serif
+font.family: Segoe UI
 font.weight: normal
 text.color: black
 text.usetex: True

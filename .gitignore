@@ -1,0 +1,3 @@
+# Ignore tex junk files
+.tex.cache/
+.fontlist-v390.json
